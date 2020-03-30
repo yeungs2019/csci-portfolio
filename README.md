@@ -14,6 +14,8 @@ Use this template to create your senior portfolio using GitHub Pages!
 3.  Click on the "Fork" button in the top right corner.
 4.  Follow the rest of [this step-by-step tutorial on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd). This senior portfolio repository was originally forked form [quick-portfolio by Ivanna Kacewica](https://github.com/evanca/quick-portfolio) for which the tutorial was original written.
 
+[A Video Tutorial](https://www.youtube.com/watch?v=gtW9NvMsCpY)
+
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
