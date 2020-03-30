@@ -1,21 +1,26 @@
-## Developer Portfolio Landing Page Template
+Senior Portfolio Template for CSCI 496
+======================================
 
-### Introduction
+## Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Use this template to create your senior portfolio using GitHub Pages!
 
-<img src="images/demo.gif?raw=true"/>
+![Demo Animation](images/demo.gif)
 
-### Installation
+## Installation
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+1.  Log in to GitHub (create a [GitHub profile](https://github.com/join) if you don't already have one).
+2.  Navigate to https://github.com/csu-cs/csci-portfolio
+3.  Click on the "Fork" button in the top right corner.
+4.  Follow the rest of [this step-by-step tutorial on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd). This senior portfolio repository was originally forked form [quick-portfolio by Ivanna Kacewica](https://github.com/evanca/quick-portfolio) for which the tutorial was original written.
+
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -39,13 +44,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
 ___
 
-### References
+## References
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+1.  *Developer Portfolio Landing Page Template* for GitHub Pages by [Ivanna Kacewica](https://github.com/evanca) https://github.com/evanca/quick-portfolio
+2.  Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+3.  Dummy photo via: https://pixabay.com/photos/woman-business-fashion-young-3060784/ (Pixabay License)
+4.  Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
